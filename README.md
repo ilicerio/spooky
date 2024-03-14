@@ -1,2 +1,2 @@
 # spooky
-a spooky repository homework 1
+git215_setup_assignment 
